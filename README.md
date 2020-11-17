@@ -1,6 +1,6 @@
 # mvcBoard
 <h3>simple mvc modol2 exam</h3>
-<h3 style="background:DarkGreen; color:white;">view, controller, model을 따로 나누어 구현하였습니다.</h3><br>
+<h3 style="background-color: darkcyan; color: white;">view, controller, model을 따로 나누어 구현하였습니다.</h3><br>
 <h3>DB는 커넥션풀로 구현하였습니다.</h3><br>
 <h3>web.xml파일 url-pattern을 .bo로 지정하였고 *.bo란 url를 가지고오면 BoardFrontController.java페이지로 이동,</h3><br>
 <h3>그 다음 거기에 맞는 로직실행페이지인 action페이지로 각각 이동하게 하였습니다.</h3><br>
