@@ -7,6 +7,12 @@
 <h1>4. </h1><h3>arrayList에 담아 전체 글목록을 구현하였습니다.</h3><br>
 <hr>
 
+<br>
+<h1>web.xml</h1>
+<br>
+
+![image](https://user-images.githubusercontent.com/71121027/99366610-302c2080-28fc-11eb-8cf5-d1a3dabb7831.png)
+
 
 <br>
 <h1>글 등록</h1>
